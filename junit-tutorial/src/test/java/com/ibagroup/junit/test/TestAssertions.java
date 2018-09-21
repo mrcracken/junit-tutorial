@@ -12,6 +12,8 @@ public class TestAssertions {
       String str2 = new String ("abc");
       String str3 = null;
       String str4 = "abc";
+      
+      
       String str5 = "abc";
 		
       int val1 = 5;
